@@ -1,5 +1,5 @@
 #include "Matriz.h"
-
+//hola
 Matriz::Matriz(){
   for(int i=0; i<MAX_FIL; i++)
 	for(int j=0; j<MAX_COL; j++)
